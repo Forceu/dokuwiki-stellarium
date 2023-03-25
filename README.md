@@ -17,4 +17,4 @@ A simple plugin that adds support for links that can open objects in [Stellarium
 
 ### Note regarding the Remote Control password
 
-Please note, if you are using a password, it can be viewed in plain text by any user that is able to see the DokuWiki page containing the Stellarium link!
+Attention: If you are using a password, it can be viewed in plain text by any user that is able to see the DokuWiki page containing the Stellarium link!
