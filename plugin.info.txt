@@ -2,5 +2,5 @@ base   stellarium
 author Marc Bulling
 date   2023-03-25
 name   Stellarium Link
-desc   Adds a link to open an object in Stellarium. Sytax <stellarium>TARGET</stellarium>
+desc   Adds a link to open an object in Stellarium.
 url    https://www.dokuwiki.org/plugin:stellarium
