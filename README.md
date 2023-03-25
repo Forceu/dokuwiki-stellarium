@@ -1,0 +1,3 @@
+# Stellarium Plugin For Dokuwiki
+
+
